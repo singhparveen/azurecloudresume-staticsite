@@ -1,0 +1,1 @@
+# Azure Cloud Resume - Static Website FrontEnd
